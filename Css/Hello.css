@@ -1,0 +1,412 @@
+.headline{
+    background-color: rgb(25, 26, 25);
+    height: 280%;
+    width: 100%;
+    font-size: 25px;
+    color: white;
+    
+}
+
+.menuStyle a {
+    color: #fff;
+    text-decoration: none;
+}
+.menuStyle a:hover{
+    color: #000;
+    background: #f18c39;
+    padding: 2px 5px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+.top{
+    position:absolute;
+    color: rgb(156, 150, 138);
+    left: 250px;
+    top: 65px;
+    font-size: 18;
+}
+
+.second{
+    position:absolute;
+    color: rgb(156, 150, 138);
+    left: 325px;
+    top: 65px;
+    font-size: 18;
+}
+
+.third{
+    position:absolute;
+    color: rgb(156, 150, 138);
+    left: 410px;
+    top: 65px;
+    font-size: 18;
+}
+
+.four{
+    position:absolute;
+    color: rgb(156, 150, 138);
+    left: 490px;
+    top: 65px;
+    font-size: 18;
+}
+
+.five{
+    position:absolute;
+    color: rgb(0, 0, 0);
+    left: 1150px;
+    top: 2.5%;
+    font-size: 20;
+    background-color: rgb(241, 140, 57);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.heading{
+    font-size: 90;
+    color:rgb(250, 233, 201);
+    padding-left: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.image{
+    position: absolute;
+    left: 1000px;
+    top: 280px;
+}
+
+.scrol{
+    font-size: 25;
+    color: white;
+    margin-left: 140px;
+    margin-top: 50px;
+}
+
+.sp{
+    color: rgb(226, 147, 1);
+    font-size: 25;
+}
+
+.about{
+    margin-top: 300px;
+    color: wheat;
+    font-size: 80;
+    padding-left: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.paira{
+    position: absolute;
+    left: 750px;
+    top: 1200px;
+    color: wheat;
+    font-size: 22;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.more{
+    margin-top: 50px;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    color: wheat;
+    width: 200px;
+    margin-left: 100px;
+    font-size: 20;
+}
+
+.pair{
+    position: absolute;
+    left: 750px;
+    top: 1470px;
+    color: wheat;
+    font-size: 22;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.secpa{
+    margin-top: 200px;
+    background-color: white;
+    height: 180%;
+    width: 94%;
+    color: rgb(0, 0, 0);
+    font-size: 70;
+    padding-left: 100px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.wt{
+    font-size: 22;
+    font-weight: normal;
+    color: rgb(243, 122, 42);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.lorem{
+    font-size: 22;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+    font-weight: normal;
+}
+
+.view{
+    margin-top: 60px;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    width: 250px;
+    font-size: 20;
+}
+
+.paira2{
+    position: absolute;
+    left: 750px;
+    top: 2295px;
+    font-size: 35;
+    
+}
+
+.paar{
+    position: absolute;
+    left: 750px;
+    top: 2380px;
+    font-size: 22;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paira3{
+    position: absolute;
+    left: 750px;
+    top: 2600px;
+    font-size: 35;
+    
+}
+
+.paar2{
+    position: absolute;
+    left: 750px;
+    top: 2680px;
+    font-size: 22;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paira4{
+    position: absolute;
+    left: 750px;
+    top: 2900px;
+    font-size: 35;
+}
+
+.paar3{
+    position: absolute;
+    left: 750px;
+    top: 2980px;
+    font-size: 22;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paira5{
+    position: absolute;
+    left: 750px;
+    top: 3190px;
+    font-size: 35;
+}
+
+.paar4{
+    position: absolute;
+    left: 750px;
+    top: 3280px;
+    font-size: 22;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.thirdpa{
+    color: rgb(0, 0, 0);
+    font-size: 70;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.quib{
+    position: absolute;
+    left: 750px;
+    top: 3860px;
+    font-size: 22;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.lor{
+    position: absolute;
+    left: 750px;
+    top: 4100px;
+    font-size: 22;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.john{
+    font-size: 22;
+    margin-top: 800px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+.rock{
+    position: absolute;
+    left: 100px;
+    top: 5250px;
+    font-size: 18;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    display: flex;
+    justify-content: center;
+}
+
+.Andrew{
+    position: absolute;
+    left: 600px;
+    top: 5045px;
+    font-size: 22;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+.carne{
+    position: absolute;
+    left: 600px;
+    top: 5250px;
+    font-size: 18;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    display: flex;
+    justify-content: center;
+}
+
+.Henry{
+    position: absolute;
+    left: 1000px;
+    top: 5045px;
+    font-size: 22;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: nor;
+}
+
+
+/* faheem */
+
+.contanerImage{
+    border: 1px solid gray;
+    height: 150px;width: 300px;
+    background-color: rgb(250, 231, 208);
+    align-content: center;
+
+}
+
+.imageStyle{
+    border-radius: 50%;
+}
+
+.get{
+    font-size: 70px;
+    padding-top: 100px;
+    color: white;
+    text-align: center;
+}
+
+.let{
+    font-size: 20px;
+    background-color: rgb(241, 140, 57);
+    padding: 15px;
+    color: black;
+    border-radius: 5px;
+}
+
+.latest{
+    font-size: 70px;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.web{
+    font-size: 35px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+}
+
+/* --------------About Us Css------------------- */
+.tabmenu {
+    display: flex;
+    gap: 30px;
+    font-size: 18px;
+    justify-content: start;
+    align-items: center;
+    padding: 20px;
+}
+.hradersection {
+    background:  rgb(34, 37, 34);
+    padding: 20px;
+}
+.headermain {
+    display: flex;
+    justify-content: start;
+    gap: 10px;
+    align-items: center;
+}
+.letstogether {
+    padding: 20px;
+    background: #f18c39;
+    border-radius: 10px;
+    font-weight: 500;
+}
+/* --------------------------About Us----------------- */
+
+.center{
+    font-size: 30px;
+    padding-top: 100px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bold;
+}
+
+.ser{
+    padding-left: 15%;
+    font-size: 20px;
+}
+
+.spa{
+    color: black;
+     font-size: 35px;
+     font-family: 'Times New Roman', Times, serif;
+     font-weight: bold;
+}
+
+.Email{
+    background-color: rgb(68, 67, 67);
+    border-radius: 5px;padding: 15px;
+    color: gray;
+    text-align: center;
+    font-size: 20;
+}
+
+.subs{
+    background-color: orange;
+    border-radius: 5px;
+    padding: 15px;
+    color:black;
+    text-align: center;
+    font-size: 20px;
+}

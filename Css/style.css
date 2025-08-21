@@ -1,0 +1,33 @@
+ .para-first{
+            font-size: 30px;
+            color:green;
+            background-color:plum;
+}
+
+
+.actor{
+            color: green;
+            background-color: wheat;
+            font-style: italic;
+            margin-left: 20px;
+            
+}
+
+.third{
+    color: rgb(11, 77, 116);
+    font-style: italic;
+    font-size: 30px;
+    background-color: goldenrod;
+}
+
+.phone{
+    height: 200px;
+    width: 250px;
+}
+
+.four{
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    font-style: italic;
+}

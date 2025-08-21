@@ -1,0 +1,59 @@
+.header{
+    display: flex;
+    gap: 50px;
+    padding-top: 1.5%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.just{
+    color: gray;
+    font-size: 20px;
+    font-weight: normal;
+    padding-left: 13%; 
+    padding-right: 13%;
+}
+
+.project{
+    background-color: black;
+    color: white;
+    border-radius: 10PX;
+    padding: 6PX ;
+    width: 35%;
+    font-size: 13px;
+    text-align: center;
+}
+
+.message{
+    border: 1px solid gray;
+    color: gray;
+    width: 82%;
+    height: 30%;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.name{
+    border: 1px solid gray;
+    color: gray;
+    width: 40%;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.contect{
+    color: white;
+    padding-left: 15%;
+    font-weight: bold;
+}
+
+.popular{
+    text-align: center;
+    padding-top: 8%;
+    font-weight: bold;
+}
+
+.mobile{
+    font-size: 20px;
+    font-weight: bold;
+}

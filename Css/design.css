@@ -1,0 +1,128 @@
+
+.bod{
+    background-color: black;
+    color: rgb(206, 204, 204);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10%;
+}
+
+.header{
+    display: flex;
+    gap:20px;
+    padding: 2%;
+}
+
+.free{
+    text-align: center;
+    font-size: 130px;
+    font-weight:500;
+   
+}
+
+.ser{
+    border: 1px solid rgb(53, 53, 53);
+    border-radius: 15px;
+    background-color: rgb(17, 17, 17);
+}
+
+.test{
+    border: 1px solid rgb(53, 53, 53);
+    border-radius: 15px; 
+    padding: 3%;
+    background-color: rgb(17, 17, 17);
+}
+
+.sto{
+    border: 1px solid rgb(53, 53, 53); 
+    padding: 4%;
+    background-color: rgb(17, 17, 17);
+    margin-top: 5%;
+}
+
+.get{
+    background-color: rgb(250, 86, 27);
+    font-size: 16px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 3px;
+}
+
+.no{
+    background-color:  rgb(250, 86, 27);
+    color: black;
+    display: inline-block;
+    font-size: 30px;
+    padding: 1%;
+    border-radius: 5px;
+}
+
+.name{
+    border: 1px solid gray;
+    color: gray;
+    width: 100%;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 10px;
+    text-align: start;
+}
+
+.sub{
+    border: 1px solid gray;
+    color: gray;
+    width: 100%;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 10px;
+    text-align: start;
+}
+
+.menuStyle a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.menuStyle a:hover{
+    color:  rgb(250, 86, 27);
+    padding: 2px 5px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+.con{
+    border: 1px solid rgb(53, 53, 53); 
+    padding: 4%;
+    border-radius: 15px;
+    background-color: rgb(17, 17, 17);
+}
+
+.gra{
+    background-color:rgb(17, 17, 17);
+    font-size: 16px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.present{
+    background-color:  rgb(17, 17, 17);
+    border-radius: 15px;
+    padding: 5%;
+    margin-top: 15%;
+}
+
+.web{
+    background-color:  rgb(250, 86, 27);
+    padding: 15px;
+    border-radius: 20px;
+    margin-top: 4%;
+    font-size: 10PX;
+    color: black;
+    display: inline-block;
+}
+
+.back{
+    background-color:  rgb(17, 17, 17);
+    border-radius: 15px;
+    padding: 5%;
+    margin-top: 5%;
+}
